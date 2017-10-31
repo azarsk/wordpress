@@ -1,6 +1,6 @@
 <?php
 /**
- * Handles Comment Post to WordPress and prevents duplicate comment posting comments.
+ * Handles Comment Post to WordPress and prevents duplicate comment posting comments azar.
  *
  * @package WordPress 
  */

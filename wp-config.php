@@ -6,8 +6,8 @@
  * installation. You don't have to use the web site, you can
  * copy this file to "wp-config.php" and fill in the values.
  *
- * This file contains the following configurations:config changes
- *
+ * This file contains the following configurations:config changes azar
+ * 
  * * MySQL settings
  * * Secret keys
  * * Database table prefix add password
