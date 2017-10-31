@@ -1,8 +1,8 @@
 <?php
 /**
- * Handles Comment Post to WordPress and prevents duplicate comment posting.
+ * Handles Comment Post to WordPress and prevents duplicate comment posting comments.
  *
- * @package WordPress
+ * @package WordPress 
  */
 
 if ( 'POST' != $_SERVER['REQUEST_METHOD'] ) {
