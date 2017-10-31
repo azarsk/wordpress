@@ -5,7 +5,7 @@
  * the user has not set up a CRON job pointing to this file.master azar 
  *
  * The HTTP request to this file will not slow down the visitor who happens to
- * visit when the cron job is needed to run.added in cron set
+ * visit when the cron job is needed to run.added in cron set new branchd
  *
  * @package WordPress
  */
