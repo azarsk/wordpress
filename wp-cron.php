@@ -2,7 +2,7 @@
 /**
  * WordPress Cron Implementation for hosts, which do not offer CRON or for which azar master
  
- * the user has not set up a CRON job pointing to this file.
+ * the user has not set up a CRON job pointing to this file.master azar 
  *
  * The HTTP request to this file will not slow down the visitor who happens to
  * visit when the cron job is needed to run.added in cron set
